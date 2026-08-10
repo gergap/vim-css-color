@@ -1,1 +1,1 @@
-call css_color#init('hex', 'none', 'xmlComment,xmlCommentPart,xmlString')
+call css_color#init('hex', 'none', 'xmlComment,xmlCommentPart,xmlString,xmlHexColor')
